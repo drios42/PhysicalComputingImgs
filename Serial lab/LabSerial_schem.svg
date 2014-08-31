@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='2.72736in' height='2.98601in' viewBox='0 0 196.37 214.993' >
+<g partID='458930'><g transform='translate(88.3698,24.3348)' ><g id="schematic">
+<rect class="interior rect" fill="#FFFFFF" stroke-width="0.9" stroke-linecap="round" x="14.85" stroke="#000000" y="14.85" width="78.3" height="135.9"/>
+<line class="pin" y1="28.8" y2="28.8" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector61pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="29.4999">D0/RX</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="28.4499" width="0.699999" height="0.699999" id="connector61terminal"/>
+<line class="pin" y1="36" y2="36" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector62pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="36.6999">D1/TX</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="35.6499" width="0.699999" height="0.699999" id="connector62terminal"/>
+<line class="pin" y1="43.2" y2="43.2" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector63pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="43.8999">D2</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="42.8499" width="0.699999" height="0.699999" id="connector63terminal"/>
+<line class="pin" y1="50.4" y2="50.4" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector64pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="51.0999">D3 PWM</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="50.0499" width="0.699999" height="0.699999" id="connector64terminal"/>
+<line class="pin" y1="57.6" y2="57.6" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector65pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="58.2999">D4</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="57.2499" width="0.699999" height="0.699999" id="connector65terminal"/>
+<line class="pin" y1="64.8" y2="64.8" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector66pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="65.4999">D5 PWM</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="64.4499" width="0.699999" height="0.699999" id="connector66terminal"/>
+<line class="pin" y1="72" y2="72" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector67pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="72.6999">D6 PWM</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="71.6499" width="0.699999" height="0.699999" id="connector67terminal"/>
+<line class="pin" y1="79.2" y2="79.2" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector68pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="79.8999">D7</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="78.8499" width="0.699999" height="0.699999" id="connector68terminal"/>
+<line class="pin" y1="86.4" y2="86.4" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector51pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="87.0999">D8</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="86.0499" width="0.699999" height="0.699999" id="connector51terminal"/>
+<line class="pin" y1="93.6" y2="93.6" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector52pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="94.2999">D9 PWM</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="93.2499" width="0.699999" height="0.699999" id="connector52terminal"/>
+<line class="pin" y1="100.8" y2="100.8" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector53pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="101.5">D10 PWM/SS</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="100.45" width="0.699999" height="0.699999" id="connector53terminal"/>
+<line class="pin" y1="108" y2="108" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector54pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="108.7">D11 PWM/MOSI</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="107.65" width="0.699999" height="0.699999" id="connector54terminal"/>
+<line class="pin" y1="115.2" y2="115.2" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector55pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="115.9">D12/MISO</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="114.85" width="0.699999" height="0.699999" id="connector55terminal"/>
+<line class="pin" y1="122.4" y2="122.4" x1="93.2499" x2="107.65" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector41pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="122.05" width="0.699999" height="0.699999" id="connector41terminal"/>
+<line class="pin" y1="122.4" y2="122.4" x1="93.2499" x2="107.65" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector56pin"/>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="91.8499"  font-size="3.49999" y="123.1">D13/SCK</text>
+<g class="terminal" fill="none" stroke-width="0" x="107.65" stroke="none" y="122.05" width="0.699999" height="0.699999" id="connector56terminal"/>
+<line class="pin" y1="28.8" y2="28.8" x1="0.349999" x2="14.75" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector43pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="28.4499" width="0.699999" height="0.699999" id="connector43terminal"/>
+<line class="pin" y1="28.8" y2="28.8" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector85pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="29.4999">RESET</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="28.4499" width="0.699999" height="0.699999" id="connector85terminal"/>
+<line class="pin" y1="36" y2="36" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector49pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="36.6999">RESET2</text>
+<rect class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="35.6499" width="0.699999" height="0.699999" id="connector49terminal"/>
+<line class="pin" y1="43.2" y2="43.2" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector58pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="43.8999">AREF</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="42.8499" width="0.699999" height="0.699999" id="connector58terminal"/>
+<line class="pin" y1="50.4" y2="50.4" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector84pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="51.0999">ioref</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="50.0499" width="0.699999" height="0.699999" id="connector84terminal"/>
+<line class="pin" y1="64.8" y2="64.8" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector0pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="65.4999">A0</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="64.4499" width="0.699999" height="0.699999" id="connector0terminal"/>
+<line class="pin" y1="72" y2="72" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector1pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="72.6999">A1</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="71.6499" width="0.699999" height="0.699999" id="connector1terminal"/>
+<line class="pin" y1="79.2" y2="79.2" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector2pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="79.8999">A2</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="78.8499" width="0.699999" height="0.699999" id="connector2terminal"/>
+<line class="pin" y1="86.4" y2="86.4" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector3pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="87.0999">A3</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="86.0499" width="0.699999" height="0.699999" id="connector3terminal"/>
+<line class="pin" y1="93.6" y2="93.6" x1="0.349999" x2="14.75" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector48pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="93.2499" width="0.699999" height="0.699999" id="connector48terminal"/>
+<line class="pin" y1="93.6" y2="93.6" x1="0.349999" x2="14.75" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector45pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="93.2499" width="0.699999" height="0.699999" id="connector45terminal"/>
+<line class="pin" y1="93.6" y2="93.6" x1="0.349999" x2="14.75" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector4pin"/>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="93.2499" width="0.699999" height="0.699999" id="connector4terminal"/>
+<line class="pin" y1="93.6" y2="93.6" x1="0.349999" x2="14.75" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector39pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="93.2499" width="0.699999" height="0.699999" id="connector39terminal"/>
+<line class="pin" y1="93.6" y2="93.6" x1="0.349999" x2="14.75" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector47pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="93.2499" width="0.699999" height="0.699999" id="connector47terminal"/>
+<line class="pin" y1="93.6" y2="93.6" x1="0.349999" x2="14.75" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector42pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="93.2499" width="0.699999" height="0.699999" id="connector42terminal"/>
+<line class="pin" y1="93.6" y2="93.6" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector59pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="94.2999">A4/SDA</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="93.2499" width="0.699999" height="0.699999" id="connector59terminal"/>
+<line class="pin" y1="100.8" y2="100.8" x1="0.349999" x2="14.75" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector5pin"/>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="100.45" width="0.699999" height="0.699999" id="connector5terminal"/>
+<line class="pin" y1="100.8" y2="100.8" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector60pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="101.5">A5/SCL</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="100.45" width="0.699999" height="0.699999" id="connector60terminal"/>
+<line class="pin" y1="136.8" y2="136.8" x1="0.349999" x2="14.75" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector91pin"/>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="16.15"  font-size="3.49999" y="137.5">N/C</text>
+<g class="terminal" fill="none" stroke-width="0" x="-0.349999" stroke="none" y="136.45" width="0.699999" height="0.699999" id="connector91terminal"/>
+<line class="pin" y1="150.85" y2="165.25" x1="57.6" x2="57.6" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector88pin"/>
+<g class="terminal" fill="none" stroke-width="0" x="57.2499" stroke="none" y="165.25" width="0.699999" height="0.699999" id="connector88terminal"/>
+<line class="pin" y1="150.85" y2="165.25" x1="57.6" x2="57.6" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector57pin"/>
+<g class="terminal" fill="none" stroke-width="0" x="57.2499" stroke="none" y="165.25" width="0.699999" height="0.699999" id="connector57terminal"/>
+<line class="pin" y1="150.85" y2="165.25" x1="57.6" x2="57.6" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector44pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="57.2499" stroke="none" y="165.25" width="0.699999" height="0.699999" id="connector44terminal"/>
+<line class="pin" y1="150.85" y2="165.25" x1="57.6" x2="57.6" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector50pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="57.2499" stroke="none" y="165.25" width="0.699999" height="0.699999" id="connector50terminal"/>
+<line class="pin" y1="150.85" y2="165.25" x1="57.6" x2="57.6" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector89pin"/>
+<g transform="matrix(1, 0, 0, 1, 58.2999, 149.45)">
+<g>
+<g transform="rotate(270)">
+<g>
+<text class="text" text-anchor="start" fill="#8c8c8c" stroke-width="0" stroke="none" x="0"  font-size="3.49999" y="0">GND</text>
+</g>
+</g>
+</g>
+</g>
+<g class="terminal" fill="none" stroke-width="0" x="57.2499" stroke="none" y="165.25" width="0.699999" height="0.699999" id="connector89terminal"/>
+<line class="pin" y1="0.349999" y2="14.75" x1="36" x2="36" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector86pin"/>
+<g transform="matrix(1, 0, 0, 1, 36.6999, 16.15)">
+<g>
+<g transform="rotate(270)">
+<g>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="0"  font-size="3.49999" y="0">3V3</text>
+</g>
+</g>
+</g>
+</g>
+<g class="terminal" fill="none" stroke-width="0" x="35.6499" stroke="none" y="-0.349999" width="0.699999" height="0.699999" id="connector86terminal"/>
+<line class="pin" y1="0.349999" y2="14.75" x1="50.4" x2="50.4" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector40pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="50.0499" stroke="none" y="-0.349999" width="0.699999" height="0.699999" id="connector40terminal"/>
+<line class="pin" y1="0.349999" y2="14.75" x1="50.4" x2="50.4" fill="none" stroke-width="0" stroke-linecap="round" stroke="none" id="connector46pin"/>
+<rect class="terminal" fill="none" stroke-width="0" x="50.0499" stroke="none" y="-0.349999" width="0.699999" height="0.699999" id="connector46terminal"/>
+<line class="pin" y1="0.349999" y2="14.75" x1="50.4" x2="50.4" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector87pin"/>
+<g transform="matrix(1, 0, 0, 1, 51.0999, 16.15)">
+<g>
+<g transform="rotate(270)">
+<g>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="0"  font-size="3.49999" y="0">5V</text>
+</g>
+</g>
+</g>
+</g>
+<g class="terminal" fill="none" stroke-width="0" x="50.0499" stroke="none" y="-0.349999" width="0.699999" height="0.699999" id="connector87terminal"/>
+<line class="pin" y1="0.349999" y2="14.75" x1="64.8" x2="64.8" fill="none" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector90pin"/>
+<g transform="matrix(1, 0, 0, 1, 65.4999, 16.15)">
+<g>
+<g transform="rotate(270)">
+<g>
+<text class="text" text-anchor="end" fill="#8c8c8c" stroke-width="0" stroke="none" x="0"  font-size="3.49999" y="0">VIN</text>
+</g>
+</g>
+</g>
+</g>
+<g class="terminal" fill="none" stroke-width="0" x="64.4499" stroke="none" y="-0.349999" width="0.699999" height="0.699999" id="connector90terminal"/>
+<text class="text" text-anchor="middle" fill="#000000" stroke-width="0" stroke="none" x="54.4501"  font-size="4.25001" y="76.4498" id="label">Arduino</text>
+<text class="text" text-anchor="middle" fill="#000000" stroke-width="0" stroke="none" x="54.4501"  font-size="4.25001" y="80.9833" id="label">Uno</text>
+<text class="text" text-anchor="middle" fill="#000000" stroke-width="0" stroke="none" x="54.4501"  font-size="4.25001" y="85.5167" id="label">(Rev3)</text>
+</g>
+</g></g><g partID='460480'><g transform='translate(18.555,67.3605)' ><g id="schematic">
+<line class="other" y1="36.3502" y2="34.9102" x1="3.24" x2="3.24" stroke-width="0.432" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="34.9102" y2="32.7502" x1="3.24" x2="0.36" stroke-width="0.72" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="32.7502" y2="29.1502" x1="0.36" x2="6.84" stroke-width="0.72" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="29.1502" y2="25.5501" x1="6.84" x2="0.36" stroke-width="0.72" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="25.5501" y2="21.95" x1="0.36" x2="6.84" stroke-width="0.72" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="21.95" y2="18.35" x1="6.84" x2="0.36" stroke-width="0.72" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="18.35" y2="14.75" x1="0.36" x2="6.84" stroke-width="0.72" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="14.75" y2="11.15" x1="6.84" x2="0.36" stroke-width="0.72" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="11.15" y2="8.99002" x1="0.36" x2="3.24" stroke-width="0.72" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="8.99002" y2="7.55001" x1="3.24" x2="3.24" stroke-width="0.432" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="21.95" y2="18.35" x1="6.84" x2="10.44" stroke-width="0.576" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="25.5501" y2="21.95" x1="10.44" x2="6.84" stroke-width="0.576" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="18.35" y2="25.5501" x1="10.44" x2="10.44" stroke-width="0.576" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="35.2702" y2="28.0701" x1="9" x2="9" stroke-width="0.432" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="28.0701" y2="31.6702" x1="9" x2="10.8" stroke-width="0.432" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="31.6702" y2="31.6702" x1="10.8" x2="7.2" stroke-width="0.432" stroke-linecap="round" stroke="#000000"/>
+<line class="other" y1="31.6702" y2="28.0701" x1="7.2" x2="9" stroke-width="0.432" stroke-linecap="round" stroke="#000000"/>
+<line class="pin" y1="43.5502" y2="36.3502" connectorname="A" x1="3.24" x2="3.24" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector2pin"/>
+<g class="terminal" fill="none" stroke-width="0" x="3.24" stroke="none" y="43.5502" width="0.000283465" height="0.000283465" id="connector2terminal"/>
+<g transform="matrix(1, 0, 0, 1, 2.19, 39.9502)">
+<g>
+<g transform="rotate(270)">
+<g>
+<text class="text" text-anchor="middle" fill="#8c8c8c" stroke-width="0" stroke="none" x="0"  font-size="2.5" y="0">3</text>
+</g>
+</g>
+</g>
+</g>
+<line class="pin" y1="0.35" y2="7.55001" connectorname="E" x1="3.24" x2="3.24" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector0pin"/>
+<g class="terminal" fill="none" stroke-width="0" x="3.24" stroke="none" y="0.35" width="0.000283465" height="0.000283465" id="connector0terminal"/>
+<g transform="matrix(1, 0, 0, 1, 2.19, 3.95)">
+<g>
+<g transform="rotate(270)">
+<g>
+<text class="text" text-anchor="middle" fill="#8c8c8c" stroke-width="0" stroke="none" x="0"  font-size="2.5" y="0">1</text>
+</g>
+</g>
+</g>
+</g>
+<line class="pin" y1="21.95" y2="21.95" connectorname="S" x1="17.64" x2="10.44" stroke-width="0.699999" stroke-linecap="round" stroke="#787878" id="connector1pin"/>
+<g class="terminal" fill="none" stroke-width="0" x="17.64" stroke="none" y="21.95" width="0.000283465" height="0.000283465" id="connector1terminal"/>
+<text class="text" text-anchor="middle" fill="#8c8c8c" stroke-width="0" stroke="none" x="14.04"  font-size="2.5" y="20.9001">2</text>
+</g>
+</g></g><g partID='462320'><g transform='translate(14.7691,130.066)' ><g xmlns="http://www.w3.org/2000/svg" id="schematic">
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="0.75" d="M7.201,7.575l0,-7.2" stroke-linecap="round" stroke="#787878" id="connector0pin"/>
+<g xmlns="http://www.w3.org/2000/svg" fill="none" x="6.728" y="0" width="0.945" height="0.953" id="connector0terminal"/>
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="0.9" d="M0.5,7.711L13.9,7.711" stroke-linecap="round" stroke="#000000" id="path4098"/>
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="0.9" d="M2.732,10.456l8.935,0" stroke-linecap="round" stroke="#000000" id="path4100"/>
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="0.9" d="M9.431,13.175L4.967,13.175" stroke-linecap="round" stroke="#000000" id="path4102"/>
+</g>
+</g></g><g partID='462440'><g transform='translate(138.895,200.593)' ><g xmlns="http://www.w3.org/2000/svg" id="schematic">
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="0.75" d="M7.201,7.575l0,-7.2" stroke-linecap="round" stroke="#787878" id="connector0pin"/>
+<g xmlns="http://www.w3.org/2000/svg" fill="none" x="6.728" y="0" width="0.945" height="0.953" id="connector0terminal"/>
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="0.9" d="M0.5,7.711L13.9,7.711" stroke-linecap="round" stroke="#000000" id="path4098"/>
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="0.9" d="M2.732,10.456l8.935,0" stroke-linecap="round" stroke="#000000" id="path4100"/>
+<path xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="0.9" d="M9.431,13.175L4.967,13.175" stroke-linecap="round" stroke="#000000" id="path4102"/>
+</g>
+</g></g><g partID='462350'><line stroke-linecap='round' stroke='#404040' x1='21.7951' y1='110.911' x2='21.9696' y2='130.543' stroke-width='0.699998' /></g><g partID='462470'><line stroke-linecap='round' stroke='#404040' x1='145.97' y1='189.935' x2='146.096' y2='201.069' stroke-width='0.699998' /></g><g partID='462620'><line stroke-linecap='round' stroke='#404040' x1='34.4623' y1='89.3085' x2='88.3698' y2='89.1347' stroke-width='0.699998' /></g><g partID='462630'><line stroke-linecap='round' stroke='#404040' x1='36.1951' y1='89.3107' x2='34.4623' y2='89.3085' stroke-width='0.699998' /></g><g partID='462700'><line stroke-linecap='round' stroke='#404040' x1='21.7951' y1='1.05' x2='21.7951' y2='67.7107' stroke-width='0.699998' /></g><g partID='462710'><line stroke-linecap='round' stroke='#404040' x1='138.77' y1='24.3348' x2='138.77' y2='1.05' stroke-width='0.699998' /></g><g partID='463000'><line stroke-linecap='round' stroke='#404040' x1='138.77' y1='1.05' x2='21.7951' y2='1.05' stroke-width='0.699998' /></g><g partID='458930' id='partLabel'><g transform='translate(101.17,18.3348)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' id='schematicLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>Arduino1</text></g></g></g><g partID='460480' id='partLabel'><g transform='translate(0,80.3155)' ><g transform='matrix(0,-1,1,0,0,0)'  ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' id='schematicLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>U1</text></g></g></g></g></svg>
